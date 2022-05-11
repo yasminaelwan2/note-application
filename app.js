@@ -149,7 +149,7 @@ yargs.command({
         //console.log('add Notes')
     }
 })
-//delet
+//deleteeeeee
 yargs.command({
     command:'delet',
     describe:'delet notes',
